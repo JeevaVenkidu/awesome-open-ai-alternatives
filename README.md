@@ -11,8 +11,8 @@ A curated list of **free & open-source AI tools** that serve as alternatives to 
 
 ## 📊 Badges
 
-![Stars](https://img.shields.io/github/stars/YOUR-USERNAME/awesome-open-ai-alternatives?style=social)
-![Forks](https://img.shields.io/github/forks/YOUR-USERNAME/awesome-open-ai-alternatives?style=social)
+![Stars](https://img.shields.io/github/stars/JeevaVenkidu/awesome-open-ai-alternatives?style=social)
+![Forks](https://img.shields.io/github/forks/JeevaVenkidu/awesome-open-ai-alternatives?style=social)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ---
