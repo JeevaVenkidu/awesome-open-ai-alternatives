@@ -1,0 +1,15 @@
+# Node / JS
+node_modules/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor configs
+.vscode/
+.idea/
