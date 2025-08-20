@@ -62,8 +62,13 @@ A curated list of **free & open-source AI tools** that serve as alternatives to 
 | Open Source Tool | Stars | Alternative to | Link |
 |------------------|-------|----------------|------|
 | **Cursor (community forks)** 💻 | ⭐ 15k | Cursor.so | [Website](https://www.cursor.so) |
-| **Bolt.dev** ⚡ | ⭐ 4.5k | Cline AI | [Website](https://bolt.dev) |
-| **Open WebUI** 🌍 | ⭐ 12k | Clara AI | [YouTube](https://youtu.be/y5o1IMidDBs?si=mAKXGTc0PYJLKYMN) |
+| **Bolt.new** ⚡ | ⭐ 4.5k | Cline AI | [GitHub](https://github.com/stackblitz/bolt.new) |
+| **Bolt.diy** ⚡ | ⭐ 1.8k | Cline AI | [GitHub](https://github.com/stackblitz-labs/bolt.diy) |
+| **Open WebUI** 🌍 | ⭐ 12k | Clara AI | [GitHub](https://github.com/open-webui/open-webui) |
+| **Perplexica** 🔎 | ⭐ 6k | Perplexity AI | [GitHub](https://github.com/ItzCrazyKns/Perplexica) |
+| **AnythingLLM** 📄 | ⭐ 3.2k | Notion AI / Chat with Docs | [GitHub](https://github.com/Mintplex-Labs/anything-llm) |
+| **Jan** 💬 | ⭐ 9k | ChatGPT (local) | [GitHub](https://github.com/janhq/jan) |
+| **Clara** 🎨 | ⭐ 2k | OpenWebUI | [Website](https://claraverse.space) |
 
 ---
 
