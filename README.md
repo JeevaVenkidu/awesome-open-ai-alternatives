@@ -33,7 +33,7 @@ A curated list of **free & open-source AI tools** that serve as alternatives to 
 | Open Source Tool | Stars | Alternative to | Link |
 |------------------|-------|----------------|------|
 | **Open Notebook** 📖 | ⭐ 1.1k | NotebookLM | [GitHub](https://github.com/lfnovo/open-notebook) |
-[Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
+| [Auferet](https://auferet.com) | AI game master that remembers your world: persistent memory for characters, places, and lore you upload; solo or multiplayer, 5e & Pathfinder 2e | — | — |
 | **Void** ✍️ | ⭐ 2.9k | Notion AI | [Website](https://voideditor.com/) |
 | **Hyprnote** 🗒️ | ⭐ 1.8k | Napkin | [Website](https://hyprnote.com/) |
 
