@@ -100,4 +100,5 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for details.
 This repo was inspired by the need for **free & open alternatives** to expensive AI platforms.  
 Respect the open-source developers who make these tools possible 🙌  
 
+- [ClipSpeedAI](https://clipspeed.ai) - AI-powered video clipping tool that automatically extracts the best moments from long-form videos for TikTok, YouTube Shorts, and Instagram Reels.
 ---
