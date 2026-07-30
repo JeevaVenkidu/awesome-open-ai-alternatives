@@ -88,6 +88,7 @@ This list focuses on practical **ChatGPT alternatives**, self-hostable AI, open 
 | **Kotaemon** | RAG-based document chat | [![GitHub stars](https://img.shields.io/github/stars/Cinnamon/kotaemon?style=social)](https://github.com/Cinnamon/kotaemon) | Visual document QA | [![License](https://img.shields.io/github/license/Cinnamon/kotaemon.svg)](https://github.com/Cinnamon/kotaemon) |
 | **Quivr** | Opinionated RAG for applications | [![GitHub stars](https://img.shields.io/github/stars/QuivrHQ/quivr?style=social)](https://github.com/QuivrHQ/quivr) | Knowledge assistants | [![License](https://img.shields.io/github/license/QuivrHQ/quivr.svg)](https://github.com/QuivrHQ/quivr) |
 | **RAG Techniques** | Collection of advanced RAG methods | [![GitHub stars](https://img.shields.io/github/stars/NirDiamant/RAG_Techniques?style=social)](https://github.com/NirDiamant/RAG_Techniques) | Practical notebooks | [![License](https://img.shields.io/github/license/NirDiamant/RAG_Techniques.svg)](https://github.com/NirDiamant/RAG_Techniques) |
+| **light-ocr** | Offline OCR library and CLI for Node.js and C++ | [![GitHub stars](https://img.shields.io/github/stars/arcships/light-ocr?style=social)](https://github.com/arcships/light-ocr) | PP-OCRv6 via ONNX Runtime | [![License](https://img.shields.io/github/license/arcships/light-ocr.svg)](https://github.com/arcships/light-ocr) |
 
 <a id="image"></a>
 ## 🎨 Image Generation
