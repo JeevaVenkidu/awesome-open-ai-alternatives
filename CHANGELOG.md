@@ -10,6 +10,8 @@ All notable changes to this curation are documented here.
 - Added 2026 model entries, MCP and A2A protocol coverage, self-hosting indicators, live GitHub star badges, and license labels.
 - Added current project links for the requested agent, developer, document, media, deployment, platform, and observability tools.
 - Added Agentlas OS to AI Agents & Multi-Agent Frameworks.
+- Added Hivekeep to AI Agents & Multi-Agent Frameworks.
+- Added light-ocr to RAG & Document AI.
 - Added a monthly Markdown link-checking workflow.
 
 ### Changed
