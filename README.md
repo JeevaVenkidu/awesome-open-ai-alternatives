@@ -45,7 +45,9 @@ This list focuses on practical **ChatGPT alternatives**, self-hostable AI, open 
 *MoE = Mixture of Experts (total parameters / active parameters). VRAM figures are rough inference estimates and depend on quantization, batch size, and context length. Benchmark scores are reported project claims, not independent rankings.*
 
 <a id="agents"></a>
-## 🤖 AI Agents & Multi-Agent Frameworks
+## 🤖 AI Agents
+
+- [Clickyy](https://github.com/jayamitkatariya/clickyyy) - Shake your cursor to summon an AI agent that sees your screen and clicks, types, drags, and acts for you on macOS. Open-source, MIT. & Multi-Agent Frameworks
 
 | Project | Description | GitHub stars | Key feature | License | Status |
 |---|---|---|---|---|---|
