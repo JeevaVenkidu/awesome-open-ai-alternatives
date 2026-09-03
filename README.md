@@ -77,6 +77,7 @@ This list focuses on practical **ChatGPT alternatives**, self-hostable AI, open 
 | **Tabby** | Self-hosted AI coding assistant | [![GitHub stars](https://img.shields.io/github/stars/TabbyML/Tabby?style=social)](https://github.com/TabbyML/Tabby) | Private code completion | [![License](https://img.shields.io/github/license/TabbyML/Tabby.svg)](https://github.com/TabbyML/Tabby) |
 | **Codeium** | Free AI code completion | [![GitHub stars](https://img.shields.io/github/stars/Exafunction/codeium.vim?style=social)](https://github.com/Exafunction/codeium.vim) | Vim integration | [![License](https://img.shields.io/github/license/Exafunction/codeium.vim.svg)](https://github.com/Exafunction/codeium.vim); hosted service ⚠️ |
 | **Claude Code** | Agentic coding tool, included as a proprietary benchmark | [![GitHub stars](https://img.shields.io/github/stars/anthropics/claude-code?style=social)](https://github.com/anthropics/claude-code) | Terminal coding agent | Proprietary, API Only ⚠️ |
+| **Superagent** | macOS desktop app giving Claude Code and Codex a real browser, iOS Simulator, and phone companion app | [![GitHub stars](https://img.shields.io/github/stars/pungme/superagent-desktop?style=social)](https://github.com/pungme/superagent-desktop) | Browser + iOS Simulator + phone relay | [![License](https://img.shields.io/github/license/pungme/superagent-desktop.svg)](https://github.com/pungme/superagent-desktop); Self-Hostable ✅ |
 
 <a id="rag"></a>
 ## 🔍 RAG & Document AI
