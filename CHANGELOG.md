@@ -2,6 +2,12 @@
 
 All notable changes to this curation are documented here.
 
+## [2026-09-27]
+
+### Added
+
+- Added jevos to Local Deployment & Inference.
+
 ## [2026-08-01]
 
 ### Added

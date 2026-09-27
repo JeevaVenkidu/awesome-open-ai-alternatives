@@ -134,6 +134,7 @@ This list focuses on practical **ChatGPT alternatives**, self-hostable AI, open 
 | **LocalAI** | OpenAI API drop-in replacement | [![GitHub stars](https://img.shields.io/github/stars/mudler/LocalAI?style=social)](https://github.com/mudler/LocalAI) | [![License](https://img.shields.io/github/license/mudler/LocalAI.svg)](https://github.com/mudler/LocalAI) | Self-Hostable ✅ |
 | **GPT4All** | No-code desktop AI | [![GitHub stars](https://img.shields.io/github/stars/nomic-ai/gpt4all?style=social)](https://github.com/nomic-ai/gpt4all) | [![License](https://img.shields.io/github/license/nomic-ai/gpt4all.svg)](https://github.com/nomic-ai/gpt4all) | Self-Hostable ✅ |
 | **Jan** | Polished desktop local AI experience | [![GitHub stars](https://img.shields.io/github/stars/janhq/jan?style=social)](https://github.com/janhq/jan) | [![License](https://img.shields.io/github/license/janhq/jan.svg)](https://github.com/janhq/jan) | Self-Hostable ✅ |
+| **jevos** | CPU-only 1B yes/no decision model with a Jev-compatible HTTP API | [![GitHub stars](https://img.shields.io/github/stars/feder-cr/jev?style=social)](https://github.com/feder-cr/jev) | [![License](https://img.shields.io/github/license/feder-cr/jev.svg)](https://github.com/feder-cr/jev) | Self-Hostable ✅ |
 
 ### Recommended Model + Tool Combinations
 
