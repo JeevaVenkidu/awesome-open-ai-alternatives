@@ -2,6 +2,12 @@
 
 All notable changes to this curation are documented here.
 
+## [2026-10-01]
+
+### Added
+
+- Added aiFetchly to AI Agents & Multi-Agent Frameworks.
+
 ## [2026-08-01]
 
 ### Added
