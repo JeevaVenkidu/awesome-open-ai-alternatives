@@ -2,6 +2,12 @@
 
 All notable changes to this curation are documented here.
 
+## [2026-10-05]
+
+### Added
+
+- Added Hyperconsciousness, a developer-alpha encrypted knowledge store for AI agents, to RAG & Document AI.
+
 ## [2026-08-01]
 
 ### Added
