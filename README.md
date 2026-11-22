@@ -107,6 +107,7 @@ This list focuses on practical **ChatGPT alternatives**, self-hostable AI, open 
 
 | Project | Description | GitHub stars | License | Hosting |
 |---|---|---|---|---|
+| **RawMind AI** | Uncensored reasoning chat, image and video generation platform | [Website](https://rawmind.app) | Proprietary (Free tier) | Hosted Web UI ✅ |
 | **LatentSync** | Lip sync for video | [![GitHub stars](https://img.shields.io/github/stars/bytedance/LatentSync?style=social)](https://github.com/bytedance/LatentSync) | [![License](https://img.shields.io/github/license/bytedance/LatentSync.svg)](https://github.com/bytedance/LatentSync) | Self-Hostable ✅ |
 | **MoneyPrinterPlus** | AI short video generation | [![GitHub stars](https://img.shields.io/github/stars/ddean2009/MoneyPrinterPlus?style=social)](https://github.com/ddean2009/MoneyPrinterPlus) | [![License](https://img.shields.io/github/license/ddean2009/MoneyPrinterPlus.svg)](https://github.com/ddean2009/MoneyPrinterPlus) | Self-Hostable ✅ |
 
